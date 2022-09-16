@@ -8,7 +8,7 @@
 > <p>3️⃣ Defining Geometric Vertices via arrays</p>
 > <p>4️⃣ Creating Different Geometric Shapes</p
 
-<img src="https://github.com/MelissaCurylo/three.js/blob/master/practice/09_geometries/demos/float32array.gif" width="600">
+<img src="https://github.com/MelissaCurylo/three.js/blob/master/practice/09_geometries/demos/float32array.gif" width="650">
 <img src="https://github.com/MelissaCurylo/three.js/blob/master/practice/09_geometries/demos/playing_with_geometries.gif" width="350">
 
   
