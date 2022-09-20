@@ -7,8 +7,8 @@
 > <p>2️⃣ TextureLoader, LoadingManager, UV unwrapping, Transformation </p>
 
 #### Showing .GIF image texture loading and transformed to cube shape ####
-*_<a href="https://threejs.org/manual/#en/textures">Image Source</a>_*
-<img src="#" width="620">
+*_<a href="https://threejs.org/manual/#en/textures">Image Source</a>_* </br>
+<img src="https://user-images.githubusercontent.com/95829904/191289584-bdf5b702-ef92-4c7e-8b65-e57e19197b6b.gif" width="620">
 
 
 
